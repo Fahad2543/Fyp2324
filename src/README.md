@@ -97,6 +97,6 @@ We welcome contributions from the community. If you have suggestions for improve
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or support, please contact [BabarAli](mailto:bainfo14@gmail.com).
+For any inquiries or support, please contact [email@example.com](mailto:bainfo14@gmail.com).
 
 Thank you for using Medlocate! We hope this platform helps in simplifying medication access for patients and pharmacies.
